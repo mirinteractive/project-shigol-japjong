@@ -4,7 +4,7 @@ An Android AR application that turns printed adoption posters into interactive, 
 ---
 
 ## 📲 Installation Guide
-1. [Download the `.apk` file](./app-release.apk) to your Android phone.
+1. Download the `.apk` file to your Android phone.
 2. Open the `.apk` file to begin installation.
 3. If a warning appears about unknown sources, tap **Allow** or **Install anyway** to proceed.
 4. Once installed, **open the app** and **grant camera permission** when prompted.
